@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cezartsy/static/css/main.7acaea2f.css",
+    "main.js": "/Cezartsy/static/js/main.08fdf05a.js",
+    "index.html": "/Cezartsy/index.html",
+    "main.7acaea2f.css.map": "/Cezartsy/static/css/main.7acaea2f.css.map",
+    "main.08fdf05a.js.map": "/Cezartsy/static/js/main.08fdf05a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.08fdf05a.js"
+  ]
+}
