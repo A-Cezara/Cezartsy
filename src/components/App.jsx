@@ -1,16 +1,12 @@
-export const App = () => {
+import React from 'react';
+import Landing from './Landing/Landing';
+import Navigation from './Navigation/Navigation';
+
+export default function App() {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
-      }}
-    >
-      Cezartsy
+    <div style={{ maxWidth: '1440px', margin: '0 auto' }}>
+      <Navigation />
+      <Landing />
     </div>
   );
-};
+}
