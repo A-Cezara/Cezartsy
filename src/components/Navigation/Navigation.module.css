@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: green;
+  background: #013927;
   border-bottom: 1px solid white;
   padding: 30px 50px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
@@ -11,8 +11,8 @@
 .navigationList {
   display: flex;
   gap: 130px;
-  color: black;
-  font-size: 15px;
+  color: #f5fffa;
+  font-size: 20px;
   font-weight: 600;
   line-height: normal;
   letter-spacing: 1.5px;

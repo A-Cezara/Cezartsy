@@ -1,6 +1,7 @@
 .landing {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
   display: flex;
+  background-color: #f5fffa;
 }
 
 .imgContainer {
@@ -16,12 +17,14 @@
 
   top: 45px;
   position: relative;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
 .img2 {
   width: 270px;
   position: relative;
   top: -20px;
   z-index: 2;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
 .logo {
   width: 700px;
